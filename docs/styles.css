@@ -334,6 +334,11 @@ nav .logo{
     text-decoration: none;
     color: white;
 }
+.main-footer{
+    display: flex;
+    padding: 20px;
+    gap: 10px;
+}
 footer {
     display: flex;
     flex-direction: column;
